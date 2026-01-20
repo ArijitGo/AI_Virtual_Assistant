@@ -37,4 +37,22 @@ This project is built as a **full-stack application** with a modern frontend, a 
 ---
 
 ## 📁 Project Structure
+virtual-assistant/
+├── backend/
+│   ├── controllers/     # Request handling logic
+│   ├── routes/          # API routes
+│   ├── models/          # MongoDB schemas
+│   ├── config/          # DB, cloud & service configs
+│   ├── index.js         # Server entry point
+│   ├── package.json
+│   └── .gitignore
+│
+├── frontend/
+│   ├── src/             # React source code
+│   ├── public/
+│   ├── package.json
+│   └── .gitignore
+│
+├── README.md
+
 
