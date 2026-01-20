@@ -37,6 +37,8 @@ This project is built as a **full-stack application** with a modern frontend, a 
 ---
 
 ## 📁 Project Structure
+
+```text
 virtual-assistant/
 ├── backend/
 │   ├── controllers/     # Request handling logic
@@ -54,5 +56,4 @@ virtual-assistant/
 │   └── .gitignore
 │
 ├── README.md
-
 
